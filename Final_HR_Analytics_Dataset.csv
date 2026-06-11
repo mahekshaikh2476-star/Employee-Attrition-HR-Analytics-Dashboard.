@@ -1,0 +1,201 @@
+Employee_ID,Employee_Name,Age,Gender,Department,Job_Role,Education_Level,Marital_Status,Years_at_Company,Monthly_Income,Performance_Rating,Job_Satisfaction,WorkLife_Balance,Training_Hours,Promotion_Status,Overtime_Status,Attrition_Status,Attrition_Reason,Manager_Rating,Employee_Engagement,Attrition_Flag,Retention_Flag
+E001,Employee_1,48,Male,IT,Analyst,Bachelor,Single,19,30287,4,1,6,80,Yes,No,No,Salary,4,2,0,1
+E002,Employee_2,22,Male,Operations,Specialist,MBA,Single,9,42371,1,2,6,72,No,Yes,No,Salary,4,5,0,1
+E003,Employee_3,23,Male,Sales,Executive,Bachelor,Married,6,123173,2,7,2,33,Yes,No,No,Management,5,5,0,1
+E004,Employee_4,29,Female,Operations,Executive,Master,Single,6,123244,5,9,8,16,No,No,No,Salary,4,2,0,1
+E005,Employee_5,32,Male,HR,Executive,Master,Married,5,51372,4,4,4,52,No,Yes,Yes,Salary,1,5,1,0
+E006,Employee_6,60,Female,Marketing,Manager,Master,Single,13,25548,2,6,1,57,No,Yes,Yes,Career Growth,4,2,1,0
+E007,Employee_7,29,Female,Finance,Analyst,Bachelor,Single,13,125070,1,5,3,30,No,No,Yes,Relocation,4,6,1,0
+E008,Employee_8,51,Female,Operations,Associate,Master,Married,15,118730,3,7,5,18,Yes,Yes,No,Salary,3,2,0,1
+E009,Employee_9,40,Male,Finance,Analyst,MBA,Married,16,144502,4,4,7,4,No,No,No,Salary,2,2,0,1
+E010,Employee_10,26,Female,IT,Specialist,Bachelor,Single,17,85776,4,1,9,33,Yes,No,No,Salary,2,9,0,1
+E011,Employee_11,36,Female,IT,Manager,MBA,Single,5,145467,1,10,1,71,Yes,Yes,Yes,Salary,3,8,1,0
+E012,Employee_12,41,Male,Marketing,Associate,Bachelor,Single,10,107283,5,5,4,36,Yes,No,No,Salary,4,6,0,1
+E013,Employee_13,44,Male,Operations,Analyst,Master,Married,3,42754,2,8,2,69,No,Yes,No,Relocation,5,10,0,1
+E014,Employee_14,38,Female,HR,Specialist,Bachelor,Married,13,28457,3,8,1,59,No,No,Yes,None,5,5,1,0
+E015,Employee_15,35,Male,Finance,Executive,Master,Married,19,65279,2,4,9,12,No,No,Yes,Workload,5,1,1,0
+E016,Employee_16,56,Male,HR,Executive,Master,Single,15,52280,3,7,1,53,No,Yes,Yes,None,4,3,1,0
+E017,Employee_17,22,Female,IT,Manager,Bachelor,Single,14,125578,1,8,5,15,Yes,No,No,Management,3,7,0,1
+E018,Employee_18,45,Male,Finance,Analyst,MBA,Single,20,62296,1,10,5,38,Yes,No,No,Salary,5,1,0,1
+E019,Employee_19,60,Female,Marketing,Manager,Bachelor,Married,4,142647,2,5,4,9,No,Yes,No,Workload,5,5,0,1
+E020,Employee_20,56,Female,HR,Analyst,MBA,Married,8,29291,1,5,2,59,Yes,Yes,No,Salary,4,1,0,1
+E021,Employee_21,41,Female,Marketing,Executive,MBA,Single,2,47896,3,8,9,21,Yes,Yes,No,Salary,3,1,0,1
+E022,Employee_22,58,Female,Operations,Associate,MBA,Single,14,69683,3,10,5,78,Yes,No,Yes,None,3,7,1,0
+E023,Employee_23,42,Female,Sales,Associate,Master,Married,7,142561,2,10,7,38,Yes,No,No,Career Growth,5,8,0,1
+E024,Employee_24,41,Female,Marketing,Specialist,Bachelor,Single,8,33634,5,8,8,3,Yes,No,No,Workload,5,5,0,1
+E025,Employee_25,24,Male,HR,Specialist,Master,Single,0,146868,2,4,8,22,No,No,No,Workload,3,8,0,1
+E026,Employee_26,32,Female,Operations,Associate,Master,Married,12,127514,2,5,7,76,Yes,No,No,Relocation,1,6,0,1
+E027,Employee_27,60,Female,Finance,Executive,MBA,Single,4,149043,2,10,6,49,No,Yes,Yes,Career Growth,5,1,1,0
+E028,Employee_28,41,Female,IT,Associate,Bachelor,Married,17,83819,3,5,2,1,Yes,Yes,No,Salary,3,8,0,1
+E029,Employee_29,30,Female,Marketing,Specialist,Master,Married,11,34292,1,7,10,65,No,Yes,No,Career Growth,4,4,0,1
+E030,Employee_30,38,Male,HR,Manager,Bachelor,Single,10,67718,2,4,4,75,Yes,No,Yes,Workload,5,6,1,0
+E031,Employee_31,22,Female,HR,Manager,Master,Single,13,103706,2,7,9,24,Yes,No,No,Career Growth,3,6,0,1
+E032,Employee_32,58,Female,IT,Associate,MBA,Married,10,121815,2,8,3,25,Yes,Yes,Yes,Salary,2,7,1,0
+E033,Employee_33,33,Male,Finance,Specialist,Master,Married,19,45467,3,1,2,49,No,Yes,Yes,Salary,2,6,1,0
+E034,Employee_34,27,Male,IT,Executive,MBA,Single,8,30643,1,3,1,39,Yes,Yes,No,Management,4,8,0,1
+E035,Employee_35,35,Male,HR,Specialist,MBA,Single,15,81536,3,8,6,41,Yes,Yes,No,Relocation,3,9,0,1
+E036,Employee_36,55,Female,Finance,Executive,Master,Single,3,85987,5,2,2,31,Yes,Yes,No,Management,4,3,0,1
+E037,Employee_37,37,Female,Sales,Analyst,MBA,Single,11,101608,4,6,4,17,Yes,Yes,No,Career Growth,5,2,0,1
+E038,Employee_38,56,Female,HR,Analyst,Bachelor,Single,6,109740,4,1,6,43,Yes,Yes,Yes,Career Growth,3,2,1,0
+E039,Employee_39,49,Female,Marketing,Specialist,MBA,Married,18,84882,5,2,9,7,No,No,No,None,4,2,0,1
+E040,Employee_40,35,Male,Sales,Manager,MBA,Single,7,64212,4,6,1,55,No,No,No,Workload,2,2,0,1
+E041,Employee_41,42,Male,Operations,Associate,Bachelor,Single,7,147076,3,7,9,76,Yes,No,Yes,Career Growth,2,9,1,0
+E042,Employee_42,50,Male,IT,Associate,Bachelor,Married,3,89949,2,10,5,44,Yes,No,No,None,3,2,0,1
+E043,Employee_43,37,Male,HR,Analyst,Master,Married,1,70655,1,4,1,54,No,No,Yes,Salary,3,1,1,0
+E044,Employee_44,40,Male,Operations,Associate,MBA,Single,16,51460,5,8,5,12,No,No,No,Salary,5,3,0,1
+E045,Employee_45,57,Female,Sales,Executive,MBA,Single,9,110995,2,3,1,55,No,Yes,No,Relocation,3,5,0,1
+E046,Employee_46,43,Female,Marketing,Manager,Bachelor,Single,15,69315,5,1,8,16,Yes,Yes,No,None,1,7,0,1
+E047,Employee_47,47,Male,Operations,Analyst,Bachelor,Single,12,131444,4,1,9,49,No,Yes,No,None,3,4,0,1
+E048,Employee_48,59,Male,Marketing,Analyst,MBA,Married,15,78709,1,6,5,30,Yes,No,No,Workload,3,7,0,1
+E049,Employee_49,22,Male,Finance,Associate,Master,Single,15,35636,4,6,6,78,Yes,Yes,No,None,4,8,0,1
+E050,Employee_50,58,Male,Operations,Associate,MBA,Single,2,54989,4,6,10,60,Yes,No,Yes,Management,5,1,1,0
+E051,Employee_51,27,Female,HR,Associate,Bachelor,Married,19,45219,2,3,6,73,Yes,Yes,No,Salary,2,8,0,1
+E052,Employee_52,53,Female,Sales,Associate,MBA,Single,12,78069,5,9,10,56,Yes,Yes,No,Workload,4,3,0,1
+E053,Employee_53,42,Female,Finance,Specialist,Bachelor,Married,14,101541,3,5,10,19,Yes,Yes,No,None,1,7,0,1
+E054,Employee_54,58,Male,Operations,Specialist,Master,Married,7,49912,1,10,2,58,Yes,Yes,No,Salary,2,4,0,1
+E055,Employee_55,43,Male,Finance,Analyst,Master,Single,3,101521,3,2,10,65,Yes,Yes,No,Relocation,1,7,0,1
+E056,Employee_56,41,Female,Finance,Associate,MBA,Married,19,106480,4,5,5,0,Yes,No,No,Management,3,6,0,1
+E057,Employee_57,35,Female,Finance,Associate,Bachelor,Married,13,81248,1,6,5,79,Yes,Yes,Yes,None,5,1,1,0
+E058,Employee_58,41,Male,Operations,Associate,Bachelor,Married,15,99463,2,1,8,5,Yes,No,Yes,Management,5,10,1,0
+E059,Employee_59,41,Male,Operations,Executive,Bachelor,Single,17,46829,1,7,8,75,No,No,Yes,Relocation,5,6,1,0
+E060,Employee_60,48,Female,Marketing,Analyst,MBA,Single,17,56589,3,7,10,64,Yes,Yes,No,None,3,2,0,1
+E061,Employee_61,38,Female,HR,Specialist,Master,Single,12,139956,4,4,6,25,Yes,No,No,Management,4,5,0,1
+E062,Employee_62,46,Female,HR,Specialist,Master,Married,10,121801,5,2,6,24,No,Yes,No,Salary,4,10,0,1
+E063,Employee_63,27,Male,IT,Associate,MBA,Single,4,81732,5,8,3,47,Yes,No,No,None,2,8,0,1
+E064,Employee_64,51,Female,HR,Specialist,Bachelor,Married,19,131909,4,7,4,30,No,Yes,No,Management,1,1,0,1
+E065,Employee_65,31,Female,Finance,Analyst,Master,Single,11,82834,3,2,3,76,Yes,No,No,None,1,2,0,1
+E066,Employee_66,22,Male,Marketing,Associate,MBA,Married,20,122575,3,1,8,55,No,No,No,Relocation,3,1,0,1
+E067,Employee_67,55,Male,Sales,Manager,Master,Single,11,61354,5,5,5,2,No,No,Yes,None,3,7,1,0
+E068,Employee_68,27,Female,Operations,Specialist,Master,Single,16,143567,5,3,6,65,No,Yes,No,Workload,5,1,0,1
+E069,Employee_69,36,Female,HR,Manager,MBA,Married,11,121252,1,2,5,65,No,Yes,Yes,None,5,3,1,0
+E070,Employee_70,34,Female,Sales,Associate,Bachelor,Single,9,59320,3,5,9,55,No,No,No,None,4,1,0,1
+E071,Employee_71,41,Male,Marketing,Associate,Bachelor,Married,1,71287,2,8,6,18,Yes,Yes,No,Management,3,6,0,1
+E072,Employee_72,54,Male,HR,Executive,Bachelor,Married,13,112293,5,7,5,54,No,No,Yes,Workload,3,6,1,0
+E073,Employee_73,33,Female,Sales,Executive,Bachelor,Single,20,57784,1,1,2,40,No,No,Yes,None,2,10,1,0
+E074,Employee_74,36,Male,HR,Specialist,MBA,Single,5,145569,1,6,10,46,No,Yes,No,Management,1,7,0,1
+E075,Employee_75,59,Male,IT,Executive,Bachelor,Married,9,37030,1,5,8,26,No,Yes,No,Management,5,9,0,1
+E076,Employee_76,34,Female,IT,Analyst,Master,Married,10,57525,2,3,5,45,Yes,Yes,No,Workload,5,1,0,1
+E077,Employee_77,29,Male,Finance,Associate,Master,Single,6,96899,4,2,9,2,Yes,Yes,No,Workload,5,2,0,1
+E078,Employee_78,46,Male,Finance,Manager,MBA,Single,1,77307,4,6,5,12,Yes,No,Yes,None,2,1,1,0
+E079,Employee_79,56,Male,Marketing,Specialist,MBA,Married,3,136233,3,7,4,34,No,Yes,No,Workload,1,7,0,1
+E080,Employee_80,33,Female,IT,Manager,Bachelor,Single,8,59145,4,2,2,42,No,No,Yes,None,3,3,1,0
+E081,Employee_81,30,Female,Operations,Analyst,Bachelor,Single,16,76019,2,2,6,36,Yes,No,No,Workload,3,1,0,1
+E082,Employee_82,60,Female,Operations,Specialist,Bachelor,Single,16,62800,5,6,6,58,Yes,Yes,No,Salary,4,7,0,1
+E083,Employee_83,22,Male,IT,Manager,MBA,Married,13,106090,2,7,3,71,Yes,No,No,Relocation,2,10,0,1
+E084,Employee_84,27,Male,Operations,Specialist,MBA,Married,11,45699,2,10,7,2,No,Yes,Yes,None,4,5,1,0
+E085,Employee_85,26,Male,Sales,Associate,MBA,Single,19,136360,3,7,8,41,No,No,No,Career Growth,1,5,0,1
+E086,Employee_86,22,Female,Sales,Executive,MBA,Married,13,61591,3,9,1,16,No,No,No,Salary,1,9,0,1
+E087,Employee_87,47,Male,Operations,Manager,Master,Married,1,78532,5,9,6,57,Yes,No,No,Management,5,2,0,1
+E088,Employee_88,37,Female,Marketing,Executive,Master,Married,15,43366,1,5,8,7,Yes,No,No,Salary,5,8,0,1
+E089,Employee_89,59,Female,Marketing,Specialist,MBA,Married,15,55121,2,8,9,47,No,No,No,Career Growth,4,8,0,1
+E090,Employee_90,59,Female,Sales,Analyst,Bachelor,Single,2,86390,3,9,1,8,No,Yes,No,Salary,5,10,0,1
+E091,Employee_91,60,Male,Finance,Specialist,MBA,Married,18,148136,4,10,6,22,No,Yes,Yes,Relocation,3,3,1,0
+E092,Employee_92,42,Male,Sales,Specialist,Master,Single,12,40683,1,6,10,3,No,Yes,No,Workload,1,4,0,1
+E093,Employee_93,29,Male,Finance,Associate,Bachelor,Married,18,113851,3,1,7,43,No,No,No,Salary,2,3,0,1
+E094,Employee_94,51,Male,HR,Manager,Master,Single,18,68264,5,7,9,61,No,Yes,No,Management,5,6,0,1
+E095,Employee_95,51,Male,Operations,Specialist,Bachelor,Married,15,127931,2,2,4,74,Yes,Yes,No,None,3,9,0,1
+E096,Employee_96,28,Male,Finance,Manager,Bachelor,Married,12,148502,1,2,7,23,No,Yes,No,Relocation,2,9,0,1
+E097,Employee_97,49,Female,Marketing,Specialist,Master,Married,7,40909,4,4,4,66,No,Yes,No,Salary,1,4,0,1
+E098,Employee_98,35,Male,Sales,Analyst,MBA,Married,16,31416,3,10,1,27,No,Yes,No,Career Growth,3,10,0,1
+E099,Employee_99,44,Male,Finance,Associate,Master,Single,4,126924,3,6,7,1,Yes,Yes,Yes,Workload,5,5,1,0
+E100,Employee_100,42,Male,Sales,Executive,Master,Married,2,109684,1,5,6,17,Yes,No,Yes,Career Growth,1,5,1,0
+E101,Employee_101,52,Female,Marketing,Executive,Master,Married,11,45606,5,6,9,74,No,No,Yes,Workload,1,3,1,0
+E102,Employee_102,27,Male,IT,Analyst,MBA,Married,1,61275,5,10,5,19,Yes,No,No,Salary,3,4,0,1
+E103,Employee_103,60,Male,Marketing,Manager,Bachelor,Single,2,57722,4,7,7,31,Yes,Yes,No,None,2,3,0,1
+E104,Employee_104,27,Female,Marketing,Associate,MBA,Married,13,79164,3,4,6,46,No,Yes,No,Workload,1,5,0,1
+E105,Employee_105,60,Female,Sales,Manager,MBA,Married,0,94589,1,3,10,62,Yes,No,No,None,4,6,0,1
+E106,Employee_106,51,Female,HR,Specialist,MBA,Married,15,42232,2,9,8,74,Yes,No,Yes,Salary,1,1,1,0
+E107,Employee_107,47,Male,Finance,Manager,Master,Single,3,91530,3,6,9,73,No,No,No,Management,1,10,0,1
+E108,Employee_108,23,Male,Sales,Manager,MBA,Married,14,112849,2,5,7,27,No,Yes,No,Career Growth,4,8,0,1
+E109,Employee_109,31,Male,Finance,Specialist,MBA,Married,4,71320,1,4,8,46,No,Yes,Yes,Salary,2,1,1,0
+E110,Employee_110,50,Female,Operations,Specialist,Bachelor,Married,6,77538,4,2,3,12,No,No,Yes,Career Growth,4,10,1,0
+E111,Employee_111,49,Female,Sales,Manager,MBA,Married,16,146932,3,1,8,44,No,No,No,Management,4,7,0,1
+E112,Employee_112,39,Male,IT,Manager,Master,Married,17,107309,1,1,4,67,Yes,No,Yes,None,1,1,1,0
+E113,Employee_113,32,Male,Marketing,Executive,MBA,Single,1,146967,5,5,5,18,Yes,Yes,No,Salary,2,4,0,1
+E114,Employee_114,52,Male,HR,Executive,MBA,Single,3,123583,5,8,8,43,Yes,Yes,No,Workload,5,2,0,1
+E115,Employee_115,23,Male,Finance,Specialist,Master,Single,9,140923,3,10,6,61,No,Yes,No,Salary,2,6,0,1
+E116,Employee_116,24,Male,IT,Executive,Bachelor,Married,15,120292,2,8,2,39,No,No,No,Salary,5,6,0,1
+E117,Employee_117,39,Female,Operations,Manager,Master,Married,20,112534,4,3,6,78,No,Yes,No,Salary,1,1,0,1
+E118,Employee_118,54,Male,Operations,Associate,Master,Married,20,32513,3,2,4,68,No,Yes,Yes,None,5,10,1,0
+E119,Employee_119,54,Female,IT,Executive,MBA,Single,1,142783,3,5,8,55,Yes,Yes,No,Management,1,7,0,1
+E120,Employee_120,44,Male,Marketing,Specialist,Bachelor,Single,17,104855,2,9,7,60,No,No,No,Relocation,5,3,0,1
+E121,Employee_121,26,Female,Marketing,Analyst,Bachelor,Married,19,59144,5,8,5,60,No,No,No,Management,4,5,0,1
+E122,Employee_122,52,Female,Marketing,Manager,Master,Married,12,83889,4,4,5,15,Yes,No,No,Career Growth,2,9,0,1
+E123,Employee_123,54,Male,IT,Specialist,MBA,Married,5,111131,2,3,4,30,Yes,No,No,Management,5,7,0,1
+E124,Employee_124,37,Female,Finance,Associate,Bachelor,Single,14,58038,2,9,6,5,No,Yes,Yes,Workload,3,10,1,0
+E125,Employee_125,36,Female,Marketing,Manager,Master,Married,0,54093,3,6,4,41,No,No,Yes,Relocation,1,8,1,0
+E126,Employee_126,37,Male,Operations,Specialist,Master,Married,1,95215,1,4,8,37,Yes,Yes,No,Career Growth,2,6,0,1
+E127,Employee_127,44,Male,Marketing,Analyst,Master,Married,19,51896,1,6,3,42,No,No,No,Salary,1,7,0,1
+E128,Employee_128,32,Female,IT,Manager,Bachelor,Married,20,99002,3,9,1,67,No,Yes,No,Relocation,1,1,0,1
+E129,Employee_129,30,Female,IT,Specialist,Master,Single,14,117717,3,8,2,44,No,Yes,Yes,Salary,5,10,1,0
+E130,Employee_130,27,Female,Operations,Executive,MBA,Single,14,130736,2,2,2,48,No,Yes,No,Salary,3,5,0,1
+E131,Employee_131,52,Female,Finance,Specialist,MBA,Single,5,76578,5,9,10,23,No,Yes,No,Relocation,2,7,0,1
+E132,Employee_132,47,Male,HR,Analyst,MBA,Married,16,40344,5,4,2,29,Yes,Yes,Yes,Relocation,3,10,1,0
+E133,Employee_133,31,Male,Marketing,Executive,MBA,Married,5,89255,1,6,7,50,Yes,Yes,Yes,None,4,6,1,0
+E134,Employee_134,36,Male,Finance,Executive,MBA,Married,10,122567,3,6,7,14,No,No,No,Salary,3,2,0,1
+E135,Employee_135,46,Female,Finance,Associate,Master,Married,13,66642,1,4,4,35,No,Yes,No,None,5,8,0,1
+E136,Employee_136,48,Male,Operations,Executive,Master,Married,0,114508,5,9,7,46,Yes,Yes,No,Career Growth,1,8,0,1
+E137,Employee_137,38,Male,Marketing,Specialist,Bachelor,Married,15,28036,3,5,3,1,No,Yes,No,Relocation,5,4,0,1
+E138,Employee_138,33,Male,Finance,Executive,MBA,Single,12,146966,4,9,10,58,Yes,No,No,Career Growth,4,4,0,1
+E139,Employee_139,56,Female,Operations,Analyst,MBA,Single,0,105041,2,4,10,14,Yes,No,No,Workload,3,9,0,1
+E140,Employee_140,28,Male,HR,Associate,Bachelor,Married,20,134415,2,1,10,6,Yes,Yes,No,Career Growth,1,2,0,1
+E141,Employee_141,41,Female,Finance,Analyst,Bachelor,Single,12,121641,3,2,1,50,Yes,No,No,None,5,1,0,1
+E142,Employee_142,23,Male,IT,Associate,Master,Single,2,49501,3,9,4,30,No,No,No,Workload,2,10,0,1
+E143,Employee_143,58,Male,Sales,Specialist,MBA,Single,16,144447,5,7,3,63,Yes,No,No,Relocation,1,3,0,1
+E144,Employee_144,55,Female,IT,Executive,Master,Single,13,118564,4,4,8,13,Yes,Yes,No,Salary,5,7,0,1
+E145,Employee_145,33,Female,HR,Analyst,Bachelor,Single,19,107388,2,9,1,77,Yes,No,No,Career Growth,4,9,0,1
+E146,Employee_146,60,Female,IT,Executive,MBA,Single,13,102069,1,4,2,61,No,Yes,Yes,Salary,3,6,1,0
+E147,Employee_147,31,Male,Operations,Executive,Bachelor,Married,3,41250,5,8,5,28,Yes,No,No,Management,5,4,0,1
+E148,Employee_148,25,Male,Sales,Manager,Bachelor,Married,2,126058,3,3,5,79,No,No,No,Relocation,4,7,0,1
+E149,Employee_149,44,Female,HR,Specialist,MBA,Single,18,103625,1,7,6,6,Yes,Yes,Yes,None,2,7,1,0
+E150,Employee_150,31,Male,Sales,Associate,MBA,Single,13,30414,2,3,5,1,Yes,No,No,Relocation,5,2,0,1
+E151,Employee_151,50,Female,Marketing,Manager,Bachelor,Single,11,138775,3,5,6,40,Yes,No,No,Management,5,4,0,1
+E152,Employee_152,55,Female,HR,Manager,Master,Married,12,120329,4,4,7,7,No,Yes,Yes,None,3,8,1,0
+E153,Employee_153,50,Male,Operations,Manager,Bachelor,Married,4,70895,3,1,8,55,No,Yes,Yes,Relocation,5,1,1,0
+E154,Employee_154,36,Female,HR,Analyst,Master,Single,12,77165,5,10,10,60,No,No,No,Salary,5,7,0,1
+E155,Employee_155,58,Male,Marketing,Analyst,MBA,Single,8,41697,5,6,1,15,Yes,No,No,Workload,5,8,0,1
+E156,Employee_156,51,Female,Sales,Manager,Master,Married,5,77719,3,6,7,54,Yes,No,Yes,Salary,1,6,1,0
+E157,Employee_157,32,Male,IT,Executive,Master,Single,17,36605,1,6,2,32,No,Yes,No,Career Growth,1,3,0,1
+E158,Employee_158,53,Male,HR,Manager,MBA,Married,3,145555,3,3,1,22,No,Yes,No,Management,2,5,0,1
+E159,Employee_159,59,Male,Marketing,Manager,MBA,Single,15,37640,2,1,4,2,No,No,Yes,None,2,5,1,0
+E160,Employee_160,40,Female,Finance,Associate,Bachelor,Married,8,149157,3,6,9,30,No,Yes,No,Management,2,10,0,1
+E161,Employee_161,50,Male,HR,Manager,Master,Single,3,128084,3,9,8,38,No,No,No,Salary,5,2,0,1
+E162,Employee_162,30,Female,IT,Executive,Master,Married,9,41402,2,2,10,65,Yes,No,No,None,3,8,0,1
+E163,Employee_163,30,Female,Finance,Analyst,Bachelor,Single,9,28277,3,9,3,37,No,Yes,No,Career Growth,2,6,0,1
+E164,Employee_164,36,Female,Marketing,Executive,Master,Married,0,134449,3,9,7,45,Yes,Yes,No,Salary,1,5,0,1
+E165,Employee_165,35,Male,HR,Analyst,Master,Married,4,70290,5,3,6,19,Yes,Yes,Yes,Salary,2,4,1,0
+E166,Employee_166,46,Female,Sales,Manager,Master,Single,15,30083,4,9,6,34,Yes,No,No,Career Growth,1,2,0,1
+E167,Employee_167,56,Female,Marketing,Associate,MBA,Married,16,129923,2,2,5,21,No,No,No,Management,1,3,0,1
+E168,Employee_168,34,Male,Finance,Specialist,MBA,Single,10,82158,4,1,2,79,No,Yes,Yes,Workload,2,9,1,0
+E169,Employee_169,59,Female,Marketing,Specialist,Bachelor,Single,4,30103,3,9,1,74,No,No,Yes,Relocation,2,9,1,0
+E170,Employee_170,40,Female,Operations,Specialist,Bachelor,Married,6,129044,1,8,4,6,No,Yes,No,Salary,5,1,0,1
+E171,Employee_171,54,Female,HR,Associate,Master,Single,1,141935,4,3,6,71,Yes,No,No,Career Growth,3,6,0,1
+E172,Employee_172,25,Male,Operations,Associate,Master,Married,10,45885,2,10,10,33,No,Yes,Yes,Career Growth,3,4,1,0
+E173,Employee_173,33,Female,Sales,Executive,Bachelor,Married,9,52610,2,5,9,35,No,No,No,Management,5,1,0,1
+E174,Employee_174,40,Male,IT,Specialist,Master,Single,7,68161,5,4,3,10,No,Yes,Yes,None,1,3,1,0
+E175,Employee_175,25,Female,IT,Associate,Master,Married,6,128579,3,4,7,28,No,No,No,Salary,4,1,0,1
+E176,Employee_176,48,Female,Operations,Associate,Master,Married,17,121220,1,4,4,56,Yes,No,Yes,Relocation,5,3,1,0
+E177,Employee_177,34,Male,Finance,Manager,MBA,Single,18,54337,1,6,10,79,No,No,No,Career Growth,2,3,0,1
+E178,Employee_178,43,Male,Finance,Associate,Bachelor,Single,14,32491,4,8,9,1,Yes,No,No,Career Growth,4,6,0,1
+E179,Employee_179,56,Female,Sales,Specialist,Bachelor,Married,9,44766,4,7,7,39,No,No,No,Relocation,5,8,0,1
+E180,Employee_180,54,Male,Finance,Manager,Master,Married,14,148406,2,7,8,11,No,No,Yes,Career Growth,3,5,1,0
+E181,Employee_181,24,Male,HR,Analyst,Bachelor,Single,4,35344,5,4,4,3,Yes,No,No,Salary,3,10,0,1
+E182,Employee_182,43,Female,HR,Specialist,Master,Single,15,128940,1,6,10,27,No,Yes,Yes,Workload,1,10,1,0
+E183,Employee_183,28,Female,IT,Executive,MBA,Single,15,35907,4,1,1,67,Yes,Yes,No,Workload,5,5,0,1
+E184,Employee_184,39,Female,Operations,Associate,MBA,Single,8,69633,4,4,8,29,No,Yes,No,Career Growth,2,6,0,1
+E185,Employee_185,46,Male,Finance,Specialist,Bachelor,Married,7,40636,2,10,6,66,Yes,No,No,Relocation,5,8,0,1
+E186,Employee_186,50,Male,Operations,Manager,Bachelor,Single,9,63575,1,8,9,71,Yes,No,No,Career Growth,2,10,0,1
+E187,Employee_187,24,Male,Marketing,Specialist,MBA,Married,16,115678,1,2,7,39,No,No,No,Salary,4,6,0,1
+E188,Employee_188,22,Male,Marketing,Manager,Master,Married,20,131005,3,1,10,38,No,No,No,Salary,5,1,0,1
+E189,Employee_189,36,Female,Operations,Specialist,MBA,Married,14,78295,2,2,8,11,Yes,Yes,No,Relocation,1,8,0,1
+E190,Employee_190,39,Male,Operations,Associate,Master,Single,15,68514,3,2,10,46,Yes,No,Yes,Relocation,2,10,1,0
+E191,Employee_191,34,Female,Finance,Specialist,Master,Single,15,54766,1,5,7,32,No,No,Yes,Salary,3,2,1,0
+E192,Employee_192,42,Male,HR,Manager,Bachelor,Married,3,52229,3,10,1,66,Yes,Yes,No,Relocation,2,9,0,1
+E193,Employee_193,44,Male,HR,Manager,MBA,Single,19,111120,3,3,4,34,No,No,No,None,4,5,0,1
+E194,Employee_194,28,Male,Sales,Manager,Bachelor,Married,4,60935,3,8,9,5,Yes,No,No,Management,1,5,0,1
+E195,Employee_195,57,Male,Marketing,Manager,MBA,Single,17,96656,3,4,6,20,Yes,Yes,No,Relocation,1,1,0,1
+E196,Employee_196,54,Male,Operations,Analyst,MBA,Married,9,128893,2,10,6,41,Yes,No,No,Career Growth,5,7,0,1
+E197,Employee_197,36,Male,Sales,Analyst,Master,Single,15,52872,5,1,6,28,Yes,Yes,No,Management,2,8,0,1
+E198,Employee_198,33,Female,Marketing,Specialist,Bachelor,Single,18,139272,3,4,7,37,No,No,No,Workload,3,1,0,1
+E199,Employee_199,38,Male,Finance,Specialist,MBA,Married,8,77474,3,5,3,67,Yes,Yes,No,Relocation,4,5,0,1
+E200,Employee_200,29,Female,Finance,Analyst,MBA,Single,5,106523,5,1,4,61,Yes,Yes,No,Workload,3,7,0,1
