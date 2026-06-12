@@ -282,38 +282,6 @@ The dashboard enables organizations to:
 - Reporting Automation
 - Visualization
 
----
-
-## Repository Structure
-
-Employee-Attrition-HR-Analytics-Dashboard/
-│
-├── Dataset/
-│   ├── HR_Raw_Dataset.csv
-│   ├── HR_Processed_Dataset.csv
-│   └── Final_HR_Analytics_Dataset.csv
-│
-├── Notebook/
-│   └── Employee_Attrition_HR_Analytics.ipynb
-│
-├── Dashboard/
-│   ├── Employee_Attrition_Dashboard.pbix
-│   └── Dashboard_Screenshot.png
-│
-├── Visualizations/
-│   ├── Chart1_Attrition_Distribution.png
-│   ├── Chart2_Department_Attrition.png
-│   ├── Chart3_Salary_Department.png
-│   ├── Chart4_Satisfaction_Department.png
-│   ├── Chart5_Overtime_Attrition.png
-│   ├── Chart6_Engagement_Distribution.png
-│   ├── Chart7_Promotion_Analysis.png
-│   └── Chart8_Satisfaction_Performance.png
-│
-├── Reports/
-│   └── HR_KPI_Report.csv
-│
-└── README.md
 
 
 ## Conclusion
